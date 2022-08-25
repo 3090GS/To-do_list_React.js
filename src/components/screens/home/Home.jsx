@@ -1,7 +1,7 @@
 import { TaskSharp } from "@mui/icons-material";
 import { Typography } from "@mui/material";
 import React, { useState } from "react";
-import "./TodoList.css";
+import "./Home.css";
 
 const Home = () => {
   return (
