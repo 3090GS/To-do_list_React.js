@@ -1,0 +1,35 @@
+.todoItemWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: rgba(255, 255, 255, 0.1);
+  padding: 10px;
+  border: 1px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.3);
+  width: 80%;
+}
+.changeTodo {
+  display: flex;
+}
+.BsTrash {
+  border: 1px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+  height: 55px;
+  width: 55px;
+  background-color: transparent;
+}
+.BsTrash:hover {
+  border-color: rgba(0, 0, 0);
+}
+.check {
+  width: 55px;
+  height: 55px;
+  background-color: transparent;
+  border: none;
+}
+

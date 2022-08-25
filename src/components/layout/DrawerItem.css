@@ -1,0 +1,16 @@
+.drawer{
+  margin: 15px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  font-size: large;
+}
+.links{
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+.link{
+  font-weight: bolder;
+  text-decoration: none;
+}
